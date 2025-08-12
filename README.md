@@ -1,29 +1,28 @@
-<a href="https://komarev.com/ghpvc/?username=deathperminut">
-<img align="right" src="https://komarev.com/ghpvc/?username=deathperminut&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=andreacardenas">
+<img align="right" src="https://komarev.com/ghpvc/?username=andreacardenas&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro -->
 <h3 align="center">
 <samp>&gt; Hey There!, I am
-<b><span>Andrea Cardenas </span></b>
+<b><span>Andrea Cardenas</span></b>
 </samp>
 </h3>
-
 
 <p align="center">
 <samp>
 <br>
-「 I am an electronic engineer, with knowledge in software development (Full stack - frontend and backend tools), Devops (Gitlab), data science with an emphasis on ML and DL modeling, in the areas of time series, LLMs and graph-type structures ( Langchain, Chroma, Neo4j), and knowledge of databases (SQL, NO SQL and graph databases)</b> 」
+「 I am an electronic engineer, with knowledge in software development (Full stack - frontend and backend tools), DevOps (Gitlab), data science with an emphasis on ML and DL modeling, in the areas of time series, LLMs and graph-type structures (Langchain, Chroma, Neo4j), and knowledge of databases (SQL, NoSQL and graph databases) 」
 <br>
 <br>
 </samp>
 </p>
 
 <p align="center">
-<a href="https://gitlab.com/mendezsebas8" target="blank">
+<a href="https://gitlab.com/andreacardenas" target="blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/Gitlab-black?logo=gitlab">
 </a>
-<a href="www.linkedin.com/in/juan-sebastían-méndez-rondón-99a485192" target="blank">
+<a href="www.linkedin.com/in/andrea-cardenas" target="blank">
 <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin">
 </a>
 </p>
@@ -35,9 +34,9 @@
 <p>
 <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
-❤️ &emsp; Love to writing code and learning new features<br/><br/>
-📧 &emsp; Reach me anytime: mendezsebas8@gmail.com / jumendezro@unal.edu.co<br/><br/>
+✌️ &emsp; Enjoy programming and sharing knowledge <br/><br/>
+❤️ &emsp; Love writing code and learning new features<br/><br/>
+📧 &emsp; Reach me anytime: tuemail@example.com<br/><br/>
 
 </p>
 
@@ -78,10 +77,8 @@
 <img alt="Static Badge" src="https://img.shields.io/badge/Linux-gray?logo=linux">
 <br/>
 
-
-
 <p align="left">
-<a href="https://github.com/deathperminut?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+<a href="https://github.com/andreacardenas?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
 
 <br/>
@@ -89,20 +86,19 @@
 <br/>
 
 <p align="center">
-<a href="https://github.com/deathperminut">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deathperminut&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+<a href="https://github.com/andreacardenas">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andreacardenas&theme=radical&border=7F3FBF&background=0D1117" alt="Andrea's GitHub streak"/>
 </a>
 </p>
 
 <p align="center">
-<a href="https://github.com/deathperminut">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deathperminut&theme=radical" alt="Al Siam's GitHub Contribution"/>
+<a href="https://github.com/andreacardenas">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreacardenas&theme=radical" alt="Andrea's GitHub Contribution"/>
 </a>
 </p>
 
 <a>
-<a href="https://github.com/deathperminut"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=deathperminut&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a href="https://github.com/deathperminut"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=deathperminut&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/andreacardenas"><img alt="Andrea's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=andreacardenas&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/andreacardenas"><img alt="Andrea's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=andreacardenas&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <br/>
 </a>
-
