@@ -5,7 +5,7 @@
 <!-- Intro -->
 <h3 align="center">
 <samp>&gt; Hey There!, I am
-<b><span>Juan Sebastián Méndez Rondón</span></b>
+<b><span>Andrea Cardenas </span></b>
 </samp>
 </h3>
 
