@@ -12,7 +12,13 @@
 <p align="center">
 <samp>
 <br>
-「 I am an electronic engineer, with knowledge in software development (Full stack - frontend and backend tools), DevOps (Gitlab), data science with an emphasis on ML and DL modeling, in the areas of time series, LLMs and graph-type structures (Langchain, Chroma, Neo4j), and knowledge of databases (SQL, NoSQL and graph databases) 」
+「 I’m an Information Systems Administrator in training, highly motivated to grow in the tech world.
+
+I’m currently developing skills in systems administration, technical support, and process automation. I'm also starting to explore software development (both frontend and backend), as well as DevOps practices using tools like GitLab.
+
+I'm particularly interested in data-related areas, and have begun learning about data science and machine learning, with a focus on time series, language models (LLMs), and graph structures.
+
+I have foundational knowledge of relational (SQL), NoSQL, and graph databases, and I’m committed to continuous learning and contributing to cross-functional tech teams. 」
 <br>
 <br>
 </samp>
